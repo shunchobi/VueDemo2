@@ -1,6 +1,6 @@
 
 <template>
-<h1> This is Home Page</h1>
+<h1> This is Home Page ver2</h1>
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
