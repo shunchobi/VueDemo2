@@ -1,7 +1,8 @@
 
 <template>
   <h1> Netlify Form and Notification Test</h1>
-  <form name="contact" method="POST" netlify>
+
+  <form name="contact" action="/thanks.html" method="POST" netlify>
     <p>
       <label>Your Name: <input type="text" name="name" /></label>
     </p>
